@@ -11,11 +11,6 @@ __This will also be bold__
 
 _You **can** combine them_
 
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
 
    > 美金兌台幣匯率統計圖 <- ggplot(各國對台幣匯率, aes(x = 幣別, y = 各國對台幣匯率$現金.1)) +
 + geom_point() +
@@ -23,3 +18,7 @@ _You **can** combine them_
 + theme_light() +
 + coord_polar(theta = "x")
 > 金兌台幣匯率統計圖
+
+zzzz
+
+kkkkkk
